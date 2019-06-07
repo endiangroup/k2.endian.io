@@ -1,0 +1,49 @@
+pipeline:
+
+    build-staging:
+      image: endian/hugo:1.0.3
+      environment:
+        - HUGO_ENV="staging"
+        - HUGO_BASEURL="http://staging.k2.endian.io"
+      commands:
+        - make build
+      when:
+        branch: [develop]
+        event: [push, tag]
+
+    build-production:
+      image: endian/hugo:1.0.3
+      environment:
+        - HUGO_ENV="production"
+        - HUGO_BASEURL="https://k2.endian.io"
+      commands:
+        - make build
+      when:
+        branch: [master]
+        event: [push, tag]
+
+    deploy-staging:
+      image: plugins/s3
+      acl: public-read
+      region: "eu-west-2"
+      bucket: "staging.k2.endian.io"
+      source: public/**/*
+      strip_prefix: public/
+      target: /
+      encryption: AES256
+      when:
+        branch: [develop]
+        event: [push, tag]
+
+    deploy-production:
+      image: plugins/s3
+      acl: public-read
+      region: "eu-west-2"
+      bucket: "k2.endian.io"
+      source: public/**/*
+      strip_prefix: public/
+      target: /
+      encryption: AES256
+      when:
+        branch: [master]
+        event: [push, tag]

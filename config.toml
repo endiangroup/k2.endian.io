@@ -1,0 +1,5 @@
+baseURL       = "https://k2.endian.io/"
+languageCode  = "en-gb"
+title         = "K2"
+theme         = "k2"
+enableGitInfo = true

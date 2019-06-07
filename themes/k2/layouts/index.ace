@@ -1,0 +1,4 @@
+{{ partial "head" . }}
+body
+  section
+    p hello

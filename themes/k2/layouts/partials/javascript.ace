@@ -1,0 +1,1 @@
+script defer="true" src="/js/app.js?v={{.GitInfo.Hash}}"
