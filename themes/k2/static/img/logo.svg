@@ -8,12 +8,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 1189.4846 519.59004"
+   viewBox="0 0 810.17967 519.58986"
    version="1.1"
    id="svg925"
    sodipodi:docname="logo.svg"
-   width="1189.4846"
-   height="519.59003"
+   width="810.17969"
+   height="519.58984"
    inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata929">
@@ -46,8 +46,8 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="1.580902"
-     inkscape:cx="335.31394"
-     inkscape:cy="131.33673"
+     inkscape:cx="277.53434"
+     inkscape:cy="123.27562"
      inkscape:window-x="7680"
      inkscape:window-y="2196"
      inkscape:window-maximized="0"
@@ -160,142 +160,17 @@
        x2="384.19"
        y2="643.14001"
        xlink:href="#linear-gradient-4" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linear-gradient"
-       id="linearGradient971"
-       gradientUnits="userSpaceOnUse"
-       x1="603.84998"
-       y1="730.73999"
-       x2="421.85001"
-       y2="242.74001" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linear-gradient-4"
-       id="linearGradient973"
-       gradientUnits="userSpaceOnUse"
-       x1="606.91998"
-       y1="313.62"
-       x2="676.91998"
-       y2="469.62" />
   </defs>
   <title
      id="title849">mountains</title>
-  <g
-     style="opacity:0.3"
-     class="cls-4"
-     id="g879"
-     transform="translate(379.30459,-37.08)">
-    <polygon
-       style="fill:#ffffff"
-       class="cls-5"
-       points="202.13,556.67 427.91,556.67 556.23,556.67 756,477.91 544.68,156.01 "
-       id="polygon877" />
-  </g>
-  <g
-     style="opacity:0.3"
-     class="cls-4"
-     id="g883"
-     transform="translate(379.30459,-37.08)">
-    <polygon
-       style="fill:#ffffff"
-       class="cls-5"
-       points="36.55,556.67 160.72,556.67 289.04,556.67 554.7,441.02 327.3,84.39 "
-       id="polygon881" />
-  </g>
-  <polygon
-     style="fill:url(#linearGradient971)"
-     class="cls-6"
-     points="440.87,37.08 437.5,37.08 361.88,556.67 715.98,556.67 "
+  <path
+     style="opacity:0.3;fill:#ffffff"
+     d="M 327.30078,47.310547 195.94726,260.67383 h 19.00196 V 390.94336 L 340.50195,260.67383 h 52.97852 l -106.6836,113.57812 113.2168,140.4336 h -55.15625 l -89.63086,-106.32422 -40.27734,41.36914 v 64.95508 H 167.77343 V 306.43945 L 36.55078,519.58984 h 124.16992 41.41016 86.9082 138.87109 128.32032 l 12.43945,-4.90429 H 411.43164 v -31.57032 l 100.8789,-95.79882 c 11.37005,-10.88622 18.99263,-20.31951 22.86329,-28.30274 4.11256,-8.22515 6.16796,-16.33123 6.16796,-24.31445 0,-11.85389 -3.99139,-20.92698 -11.9746,-27.2168 -7.98324,-6.28982 -19.7166,-9.43359 -35.19922,-9.43359 -25.88502,0 -45.72251,8.82842 -59.51172,26.48828 l -33.02149,-25.40039 c 9.91856,-13.30537 23.22381,-23.58627 39.91602,-30.84375 16.93413,-7.4994 35.8046,-11.24805 56.60937,-11.24805 27.57843,0 49.59268,6.53029 66.04297,19.59375 16.45029,13.06347 24.67578,30.84556 24.67578,53.34375 0,13.78922 -2.90299,26.73037 -8.70898,38.82617 -5.80597,12.0958 -16.93643,25.88456 -33.38672,41.36719 l -67.85547,64.5918 h 119.74805 v 28.08789 L 756.00001,440.83008 544.67969,118.92969 446.32226,233.97266 Z"
+     id="polygon877"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff"
+     d="M 435.34961,0 252.05664,318.26367 197.98047,186.08008 0,519.58984 h 136.10937 91.09961 11.3711 95.83984 27.46094 128.31836 225.78129 94.1992 L 662.40041,240.4707 642.08981,380.03516 440.86914,0 H 438.7207 437.5 Z m 62.81054,257.04492 c 27.57843,0 49.59268,6.53029 66.04297,19.59375 16.45029,13.06347 24.67578,30.84556 24.67578,53.34375 0,13.78922 -2.90299,26.73037 -8.70898,38.82617 -5.80597,12.0958 -16.93643,25.88456 -33.38672,41.36719 l -67.85547,64.5918 h 119.74805 v 39.91797 H 411.43164 v -31.57032 l 100.8789,-95.79882 c 11.37005,-10.88622 18.99263,-20.31951 22.86329,-28.30274 4.11256,-8.22515 6.16796,-16.33123 6.16796,-24.31445 0,-11.85389 -3.99139,-20.92698 -11.9746,-27.2168 -7.98324,-6.28982 -19.7166,-9.43359 -35.19922,-9.43359 -25.88502,0 -45.72251,8.82842 -59.51172,26.48828 l -33.02149,-25.40039 c 9.91856,-13.30537 23.22381,-23.58627 39.91602,-30.84375 16.93413,-7.4994 35.8046,-11.24805 56.60937,-11.24805 z m -330.38672,3.62891 h 47.17579 V 390.94336 L 340.50195,260.67383 h 52.97852 l -106.6836,113.57812 113.2168,140.4336 h -55.15625 l -89.63086,-106.32422 -40.27734,41.36914 v 64.95508 h -47.17579 z"
      id="polygon889"
-     transform="translate(379.30459,-37.08)" />
-  <polygon
-     style="fill:url(#linear-gradient-2)"
-     class="cls-7"
-     points="438.72,37.08 435.35,37.08 136.11,556.67 490.2,556.67 "
-     id="polygon891"
-     transform="translate(379.30459,-37.08)" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:344.16482544px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#3588a1;fill-opacity:1;stroke:none;stroke-width:8.60412025"
-     x="193.50667"
-     y="519.11255"
-     id="text1188"><tspan
-       sodipodi:role="line"
-       id="tspan1186"
-       x="193.50667"
-       y="519.11255"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#3588a1;fill-opacity:1;stroke-width:8.60412025">K2</tspan></text>
-  <polygon
-     style="fill:url(#linear-gradient-3)"
-     class="cls-8"
-     points="0,556.67 238.58,556.67 197.98,223.16 "
-     id="polygon893"
-     transform="translate(379.30459,-37.08)" />
-  <polygon
-     style="fill:url(#linearGradient973)"
-     class="cls-9"
-     points="810.18,556.67 621.78,556.67 662.4,277.55 "
-     id="polygon895"
-     transform="translate(379.30459,-37.08)" />
-  <polygon
-     style="fill:url(#linear-gradient-5)"
-     class="cls-10"
-     points="533.72,556.67 621.78,556.67 662.4,277.55 "
-     id="polygon897"
-     transform="translate(379.30459,-37.08)" />
-  <polygon
-     style="fill:#ffffff"
-     class="cls-5"
-     points="349.05,186.91 386.85,169.94 381.98,236.1 424.85,188.58 461.19,263.84 438.72,37.08 435.35,37.08 "
-     id="polygon899"
-     transform="translate(379.30459,-37.08)" />
-  <polygon
-     style="fill:#d6d7d8"
-     class="cls-11"
-     points="461.19,263.84 485.42,221.93 506.18,246.5 514.63,210.23 544.68,233.13 440.87,37.08 438.72,37.08 "
-     id="polygon901"
-     transform="translate(379.30459,-37.08)" />
-  <polygon
-     style="fill:#d6d7d8"
-     class="cls-11"
-     points="662.4,277.55 640.11,430.7 630.97,378.85 600.69,411.4 "
-     id="polygon903"
-     transform="translate(379.30459,-37.08)" />
-  <polygon
-     style="fill:#ffffff"
-     class="cls-5"
-     points="662.4,397.25 640.11,430.7 662.4,277.55 734.87,414.44 715.98,402.23 705.15,452.47 "
-     id="polygon905"
-     transform="translate(379.30459,-37.08)" />
-  <polygon
-     style="fill:url(#linear-gradient-6)"
-     class="cls-12"
-     points="334.42,556.67 227.21,556.67 197.98,223.16 "
-     id="polygon907"
-     transform="translate(379.30459,-37.08)" />
-  <polygon
-     style="fill:url(#linear-gradient-7)"
-     class="cls-13"
-     points="127.05,556.67 318.97,556.67 282.98,366.91 "
-     id="polygon909"
-     transform="translate(379.30459,-37.08)" />
-  <polygon
-     style="fill:url(#linear-gradient-8)"
-     class="cls-14"
-     points="404.26,556.67 311.14,556.67 282.98,366.91 "
-     id="polygon911"
-     transform="translate(379.30459,-37.08)" />
-  <polygon
-     style="fill:#ffffff"
-     class="cls-5"
-     points="176.86,320.65 166.03,302.25 140.09,320.68 197.98,223.16 207.86,335.94 189.31,306.73 "
-     id="polygon913"
-     transform="translate(379.30459,-37.08)" />
-  <polygon
-     style="fill:#d6d7d8"
-     class="cls-11"
-     points="207.86,335.94 217.47,317.67 240.98,328.28 197.98,223.16 "
-     id="polygon915"
-     transform="translate(379.30459,-37.08)" />
+     inkscape:connector-curvature="0" />
 </svg>

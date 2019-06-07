@@ -20,53 +20,70 @@ section
 header
   text-align: center
 
-  .top
-    padding-top: 10px
-    height: calc( ( var(--vh, 1vh) * 20) + 10px )
+  &::after
+    content: ""
+    background-image: url(/img/banknote.jpg)
+    background-size: cover
+    background-position-x: center
+    opacity: 0.2
+    top: 0
+    left: 0
+    bottom: 0
+    right: 0
+    position: absolute
+    z-index:  0
 
-    h1
-      img
-        height: 100%
+  height: calc( ( var(--vh, 1vh) * 100) )
+  padding-top: 2em
+  background-color: #000c00
+  color: white
+  display: flex
+  align-items: center
+  position: relative
 
-  .bottom
-    height: calc( ( var(--vh, 1vh) * 80) - 10px )
-    padding-top: 2em
-    background-color: #29353A
-    color: white
-    display: flex
-    align-items: center
+  section
+    position: relative
+    z-index: 1
 
-    h2
+  h1
+    margin-bottom: 1em
+    img
+      width: 50%
+      +breakpoint(large)
+        width: 20vw
+
+  h2
+    font-size: 2em
+    margin-bottom: 1em
+    +breakpoint(large)
+      font-size: 3em
+
+  h3
+    font-size: 1.5em
+
+    +breakpoint(large)
       font-size: 2em
-      margin-bottom: 1em
+  
+  ul#ctas
+    +xy-grid
+    margin-top: 2em
+    margin: 0
+    margin-top: 3em
+
+    li
+      +xy-cell(12)
       +breakpoint(large)
-        font-size: 3em
+        +xy-cell(4)
+      list-style: none
 
-    h3
-      font-size: 1.5em
+      a
+        +button
+        background-color: transparent
+        border: 1px solid white
+        padding: 1.5em
+        width: 100%
+        font-size: 1.2em
+        background-color: rgba(0,0,0,0.3)
 
-      +breakpoint(large)
-        font-size: 2em
-    
-    ul#ctas
-      +xy-grid
-      margin-top: 2em
-      margin: 0
-      margin-top: 3em
-
-      li
-        +xy-cell(12)
-        +breakpoint(large)
-          +xy-cell(4)
-        list-style: none
-
-        a
-          +button
-          background-color: transparent
-          border: 1px solid white
-          padding: 1.5em
-          width: 100%
-          font-size: 1.1em
-
-          &:hover
-            color: #29353A
+        &:hover
+          color: #29353A
