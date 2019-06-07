@@ -25,7 +25,7 @@ pipeline:
     deploy-staging:
       image: plugins/s3
       acl: public-read
-      region: "eu-west-2"
+      region: "eu-west-1"
       bucket: "k2.staging.endian.io"
       source: public/**/*
       strip_prefix: public/
@@ -38,7 +38,7 @@ pipeline:
     deploy-production:
       image: plugins/s3
       acl: public-read
-      region: "eu-west-2"
+      region: "eu-west0"
       bucket: "k2.endian.io"
       source: public/**/*
       strip_prefix: public/
