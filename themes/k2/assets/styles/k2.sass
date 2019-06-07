@@ -1,11 +1,13 @@
 // Animated on Scroll
-@import aos
 
 // Foundation
 @import foundation_settings
 @import foundation
 +foundation-global-styles
 +foundation-typography
+
+body
+  background-color: $light-gray
 
 =centered-content
   padding: 1em
@@ -14,3 +16,57 @@
 
 section
   +centered-content
+
+header
+  text-align: center
+
+  .top
+    padding-top: 10px
+    height: calc( ( var(--vh, 1vh) * 20) + 10px )
+
+    h1
+      img
+        height: 100%
+
+  .bottom
+    height: calc( ( var(--vh, 1vh) * 80) - 10px )
+    padding-top: 2em
+    background-color: #29353A
+    color: white
+    display: flex
+    align-items: center
+
+    h2
+      font-size: 2em
+      margin-bottom: 1em
+      +breakpoint(large)
+        font-size: 3em
+
+    h3
+      font-size: 1.5em
+
+      +breakpoint(large)
+        font-size: 2em
+    
+    ul#ctas
+      +xy-grid
+      margin-top: 2em
+      margin: 0
+      margin-top: 3em
+
+      li
+        +xy-cell(12)
+        +breakpoint(large)
+          +xy-cell(4)
+        list-style: none
+
+        a
+          +button
+          background-color: transparent
+          border: 1px solid white
+          padding: 1.5em
+          width: 100%
+          font-size: 1.1em
+
+          &:hover
+            color: #29353A

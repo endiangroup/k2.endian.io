@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 810.17998 519.59004"
+   version="1.1"
+   id="svg925"
+   sodipodi:docname="mountains-min.svg"
+   width="810.17999"
+   height="519.59003"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata929">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>mountains</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3840"
+     inkscape:window-height="2075"
+     id="namedview927"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.580902"
+     inkscape:cx="425.24381"
+     inkscape:cy="417.74046"
+     inkscape:window-x="7680"
+     inkscape:window-y="2196"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg925" />
+  <defs
+     id="defs847">
+    <style
+       id="style815">.cls-1{fill:#ff3939;}.cls-2{fill:#051928;}.cls-3{fill:#f4aa4a;}.cls-4{opacity:0.3;}.cls-5{fill:#fff;}.cls-6{fill:url(#linear-gradient);}.cls-7{fill:url(#linear-gradient-2);}.cls-8{fill:url(#linear-gradient-3);}.cls-9{fill:url(#linear-gradient-4);}.cls-10{fill:url(#linear-gradient-5);}.cls-11{fill:#d6d7d8;}.cls-12{fill:url(#linear-gradient-6);}.cls-13{fill:url(#linear-gradient-7);}.cls-14{fill:url(#linear-gradient-8);}</style>
+    <linearGradient
+       id="linear-gradient"
+       x1="603.84998"
+       y1="730.73999"
+       x2="421.85001"
+       y2="242.74001"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.01"
+         stop-color="#d7c41a"
+         id="stop817" />
+      <stop
+         offset="0.5"
+         stop-color="#0a7e3f"
+         id="stop819" />
+      <stop
+         offset="1"
+         stop-color="#478dcb"
+         id="stop821" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-2"
+       x1="319.69"
+       y1="530.90002"
+       x2="485.69"
+       y2="-123.1"
+       xlink:href="#linear-gradient" />
+    <linearGradient
+       id="linear-gradient-3"
+       x1="119.64"
+       y1="570.77002"
+       x2="109.64"
+       y2="170.77"
+       xlink:href="#linear-gradient" />
+    <linearGradient
+       id="linear-gradient-4"
+       x1="606.91998"
+       y1="313.62"
+       x2="676.91998"
+       y2="469.62"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.01"
+         stop-color="#d7c41a"
+         id="stop826" />
+      <stop
+         offset="0.45"
+         stop-color="#e2640f"
+         id="stop828" />
+      <stop
+         offset="1"
+         stop-color="#d3161a"
+         id="stop830" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-5"
+       x1="533.71997"
+       y1="417.10999"
+       x2="662.40002"
+       y2="417.10999"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#d7c41a"
+         id="stop833" />
+      <stop
+         offset="1"
+         stop-color="#e2640f"
+         id="stop835" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-6"
+       x1="348.04999"
+       y1="737.09003"
+       x2="190.05"
+       y2="313.07999"
+       xlink:href="#linear-gradient" />
+    <linearGradient
+       id="linear-gradient-7"
+       x1="213.92"
+       y1="646.45001"
+       x2="245.92"
+       y2="330.45001"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#0a7e3f"
+         id="stop839" />
+      <stop
+         offset="0.33"
+         stop-color="#d7c41a"
+         id="stop841" />
+      <stop
+         offset="1"
+         stop-color="#e2640f"
+         id="stop843" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-8"
+       x1="278.19"
+       y1="297.14001"
+       x2="384.19"
+       y2="643.14001"
+       xlink:href="#linear-gradient-4" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linear-gradient"
+       id="linearGradient971"
+       gradientUnits="userSpaceOnUse"
+       x1="603.84998"
+       y1="730.73999"
+       x2="421.85001"
+       y2="242.74001" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linear-gradient-4"
+       id="linearGradient973"
+       gradientUnits="userSpaceOnUse"
+       x1="606.91998"
+       y1="313.62"
+       x2="676.91998"
+       y2="469.62" />
+  </defs>
+  <title
+     id="title849">mountains</title>
+  <g
+     style="opacity:0.3"
+     class="cls-4"
+     id="g879"
+     transform="translate(0,-37.08)">
+    <polygon
+       style="fill:#ffffff"
+       class="cls-5"
+       points="427.91,556.67 556.23,556.67 756,477.91 544.68,156.01 202.13,556.67 "
+       id="polygon877" />
+  </g>
+  <g
+     style="opacity:0.3"
+     class="cls-4"
+     id="g883"
+     transform="translate(0,-37.08)">
+    <polygon
+       style="fill:#ffffff"
+       class="cls-5"
+       points="160.72,556.67 289.04,556.67 554.7,441.02 327.3,84.39 36.55,556.67 "
+       id="polygon881" />
+  </g>
+  <polygon
+     style="fill:url(#linearGradient971)"
+     class="cls-6"
+     points="440.87,37.08 437.5,37.08 361.88,556.67 715.98,556.67 "
+     id="polygon889"
+     transform="translate(0,-37.08)" />
+  <polygon
+     style="fill:url(#linear-gradient-2)"
+     class="cls-7"
+     points="438.72,37.08 435.35,37.08 136.11,556.67 490.2,556.67 "
+     id="polygon891"
+     transform="translate(0,-37.08)" />
+  <polygon
+     style="fill:url(#linear-gradient-3)"
+     class="cls-8"
+     points="197.98,223.16 0,556.67 238.58,556.67 "
+     id="polygon893"
+     transform="translate(0,-37.08)" />
+  <polygon
+     style="fill:url(#linearGradient973)"
+     class="cls-9"
+     points="662.4,277.55 810.18,556.67 621.78,556.67 "
+     id="polygon895"
+     transform="translate(0,-37.08)" />
+  <polygon
+     style="fill:url(#linear-gradient-5)"
+     class="cls-10"
+     points="662.4,277.55 533.72,556.67 621.78,556.67 "
+     id="polygon897"
+     transform="translate(0,-37.08)" />
+  <polygon
+     style="fill:#ffffff"
+     class="cls-5"
+     points="424.85,188.58 461.19,263.84 438.72,37.08 435.35,37.08 349.05,186.91 386.85,169.94 381.98,236.1 "
+     id="polygon899"
+     transform="translate(0,-37.08)" />
+  <polygon
+     style="fill:#d6d7d8"
+     class="cls-11"
+     points="514.63,210.23 544.68,233.13 440.87,37.08 438.72,37.08 461.19,263.84 485.42,221.93 506.18,246.5 "
+     id="polygon901"
+     transform="translate(0,-37.08)" />
+  <polygon
+     style="fill:#d6d7d8"
+     class="cls-11"
+     points="662.4,277.55 640.11,430.7 630.97,378.85 600.69,411.4 "
+     id="polygon903"
+     transform="translate(0,-37.08)" />
+  <polygon
+     style="fill:#ffffff"
+     class="cls-5"
+     points="662.4,277.55 734.87,414.44 715.98,402.23 705.15,452.47 662.4,397.25 640.11,430.7 "
+     id="polygon905"
+     transform="translate(0,-37.08)" />
+  <polygon
+     style="fill:url(#linear-gradient-6)"
+     class="cls-12"
+     points="197.98,223.16 334.42,556.67 227.21,556.67 "
+     id="polygon907"
+     transform="translate(0,-37.08)" />
+  <polygon
+     style="fill:url(#linear-gradient-7)"
+     class="cls-13"
+     points="282.98,366.91 127.05,556.67 318.97,556.67 "
+     id="polygon909"
+     transform="translate(0,-37.08)" />
+  <polygon
+     style="fill:url(#linear-gradient-8)"
+     class="cls-14"
+     points="282.98,366.91 404.26,556.67 311.14,556.67 "
+     id="polygon911"
+     transform="translate(0,-37.08)" />
+  <polygon
+     style="fill:#ffffff"
+     class="cls-5"
+     points="140.09,320.68 197.98,223.16 207.86,335.94 189.31,306.73 176.86,320.65 166.03,302.25 "
+     id="polygon913"
+     transform="translate(0,-37.08)" />
+  <polygon
+     style="fill:#d6d7d8"
+     class="cls-11"
+     points="207.86,335.94 217.47,317.67 240.98,328.28 197.98,223.16 "
+     id="polygon915"
+     transform="translate(0,-37.08)" />
+</svg>
