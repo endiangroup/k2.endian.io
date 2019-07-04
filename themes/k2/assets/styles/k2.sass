@@ -87,3 +87,26 @@ header
 
         &:hover
           color: #29353A
+
+section
+
+  &.intro 
+    background-color: #000022
+    color: white
+    margin-bottom: 1em
+    padding-left: 2em
+
+
+  &.gallery
+    +xy-grid
+
+    a
+      +xy-cell(3)
+      +breakpoint(large)
+        +xy-cell(2)
+
+      padding-bottom: 1em
+      transition: transform .2s;
+
+      &:hover
+       transform: scale(1.05)
