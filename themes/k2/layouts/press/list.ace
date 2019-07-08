@@ -1,0 +1,18 @@
+{{ partial "head" . }}
+body
+  #content
+    section.intro
+      h2 Kowala in the press
+
+    section.press
+      .container
+        {{$articles := getJSON "/data/press.json"}}
+        {{$sortedArticles := sort $articles "date" "desc"}}
+        {{range $sortedArticles}}
+          {{if eq .skip false}}
+            .row
+              a href={{.url}} target="_blank" rel="noopener" 
+                h2 {{.title}}
+                h5 {{ dateFormat "January 2, 2006" .date }} &mdash; {{.source}}
+          {{end}}
+        {{end}}

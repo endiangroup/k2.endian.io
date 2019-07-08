@@ -110,3 +110,32 @@ section
 
       &:hover
        transform: scale(1.05)
+
+  &.press
+    padding: 0
+    .container
+      padding-top: 0
+
+      .row
+        +centered-content
+        padding: 1em
+        transition: transform .2s;
+
+        h5
+          font-size: 0.8em
+          color: black
+          font-style: italic
+          color: #444
+
+        h2
+          font-size: 1em
+          color: black
+          font-weight: 500
+
+        &:nth-child(even)
+          background-color: #fafafa
+
+        &:hover
+          transform: scale(1.01)
+          h2,h5
+            color: #aa2200

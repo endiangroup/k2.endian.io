@@ -1,0 +1,890 @@
+{
+  "Investopedia": {
+    "source": "Investopedia",
+    "date": "2018-02-07T08:00:00.000Z",
+    "title": "Tether Tantrum",
+    "url": "https://www.investopedia.com/news/tether-tantrum-and-need-stablecoin/",
+    "feature": true,
+    "skip": false
+  },
+  "Investing.com": {
+    "source": "Investing.com",
+    "date": "2018-07-05T07:00:00.000Z",
+    "title": "Chinese Crypto Firms Unfazed by Bans, Eye Sector Innovations",
+    "url": "https://www.investing.com/news/cryptocurrency-news/chinese-crypto-firms-unfazed-by-bans-eye-sector-innovations-1518217",
+    "feature": true,
+    "skip": false
+  },
+  "Cryptoslate": {
+    "source": "Cryptoslate",
+    "date": "2018-02-09T08:00:00.000Z",
+    "title": "Stablecoin 101",
+    "url": "https://cryptoslate.com/stablecoins-101-crypto-market-needs-fiat-stability/",
+    "feature": false,
+    "skip": false
+  },
+  "Blockonomi": {
+    "source": "Blockonomi",
+    "date": "2018-02-15T08:00:00.000Z",
+    "title": "Kowala Guide",
+    "url": "https://blockonomi.com/kowala-guide/",
+    "feature": false,
+    "skip": false
+  },
+  "ABA Journal": {
+    "source": "ABA Journal",
+    "date": "2018-02-26T08:00:00.000Z",
+    "title": "Blockchain-based initial coin offerings chart uncertain legal terrain",
+    "url": "http://www.abajournal.com/magazine/article/blockchain_initial_coin_offerings_legal/P1",
+    "feature": false,
+    "skip": false
+  },
+  "Tom's Hardware": {
+    "source": "Tom's Hardware",
+    "date": "2018-04-15T07:00:00.000Z",
+    "title": "What Are the Differences? Bitcoin, Monero, Ethereum, And Other Cryptocurrencies Compared",
+    "url": "https://www.tomshardware.com/news/differences-between-cryptocurrencies,36838.html",
+    "feature": false,
+    "skip": false
+  },
+  "Payment Journal": {
+    "source": "Payment Journal",
+    "date": "2018-04-16T07:00:00.000Z",
+    "title": "Crypto Payment Methods",
+    "url": "http://paymentsjournal.com/mainstream-players-entering-crypto-payments-arena/",
+    "feature": false,
+    "skip": false
+  },
+  "ValueWalk": {
+    "source": "ValueWalk",
+    "date": "2018-07-25T07:00:00.000Z",
+    "title": "Analysts React To Bitcoin's Latest Price Explosion",
+    "url": "https://www.valuewalk.com/2018/07/price-of-bitcoin/",
+    "feature": false,
+    "skip": false
+  },
+  "Forbes": {
+    "source": "Forbes",
+    "date": "2018-05-14T07:00:00.000Z",
+    "title": "Is Korea's Big Government Trying to Bitcoin, Etherum, and Ripple?",
+    "url": "https://www.forbes.com/sites/panosmourdoukoutas/2018/05/12/is-koreas-big-government-trying-to-destroy-bitcoin-ethereum-ripple/#4fcd749d4f44",
+    "feature": true,
+    "skip": false
+  },
+  "Inverse": {
+    "source": "Inverse",
+    "date": "2018-04-24T07:00:00.000Z",
+    "title": "Cryptocurrency Market Hits $425 Billion, and Experts Say It Could Go Higher",
+    "url": "https://www.inverse.com/article/44088-cryptocurrency-market-cap-425-billion",
+    "feature": false,
+    "skip": false
+  },
+  "Digital Journal": {
+    "source": "Digital Journal",
+    "date": "2018-04-24T07:00:00.000Z",
+    "title": "Bitcoin price trending up towards $9,500",
+    "url": "http://www.digitaljournal.com/tech-and-science/technology/bitcoin-price-trending-up-towards-9-500/article/520622",
+    "feature": false,
+    "skip": false
+  },
+  "Cryptona": {
+    "source": "Cryptona",
+    "date": "2018-04-25T07:00:00.000Z",
+    "title": "Why Bitcoin Price Is Rising Steadily Once Again",
+    "url": "https://cryptona.co/why-bitcoin-price-is-rising-steadily-once-again/",
+    "feature": false,
+    "skip": false
+  },
+  "EconoTimes": {
+    "source": "EconoTimes",
+    "date": "2018-08-22T07:00:00.000Z",
+    "title": "Is Crypto-space making space in EMFX turmoil via stable coins?",
+    "url": "https://www.econotimes.com/Is-Crypto-space-making-space-in-EMFX-turmoil-via-stable-coins-1418928",
+    "feature": false,
+    "skip": false
+  },
+  "Bitcoinist": {
+    "source": "Bitcoinist",
+    "date": "2018-04-26T07:00:00.000Z",
+    "title": "3 Reasons Why Bitcoin and Its Brethren are Back",
+    "url": "http://bitcoinist.com/3-reasons-bitcoin-brethren-back/",
+    "feature": false,
+    "skip": false
+  },
+  "Finder": {
+    "source": "Finder",
+    "date": "2018-09-05T07:00:00.000Z",
+    "title": "Kowala launches Andromeda, the alpha mainnet of its USD stablecoin",
+    "url": "https://www.finder.com.au/kowala-andromeda-a-unique-stablecoin-network-has-gone-live",
+    "feature": false,
+    "skip": false
+  },
+  "Cayman Compass": {
+    "source": "Cayman Compass",
+    "date": "2018-05-09T07:00:00.000Z",
+    "title": "Minister: Blockchain regulations coming down the pipeline",
+    "url": "https://www.caymancompass.com/2018/05/15/minister-blockchain-regulations-coming-down-the-pipeline/",
+    "feature": false,
+    "skip": false
+  },
+  "Smartereum": {
+    "source": "Smartereum",
+    "date": "2018-05-14T07:00:00.000Z",
+    "title": "Will Bitcoin, Ripple, and Etherum, Be Destroyed By Korea's Big Government?",
+    "url": "https://smartereum.com/14269/will-bitcoin-ripple-and-ethereum-be-destroyed-by-koreas-big-government/",
+    "feature": false,
+    "skip": false
+  },
+  "Bitnews": {
+    "source": "Bitnews",
+    "date": "2018-05-14T07:00:00.000Z",
+    "title": "The remaining barriers the cryptocurrency industry must overcome to successfully disrupt the $500 billion remittances market",
+    "url": "https://bitnewstoday.com/market/blockchain/the-remaining-barriers-the-cryptocurrency-industry-must-overcome-to-successfully/",
+    "feature": false,
+    "skip": false
+  },
+  "CryptoVest": {
+    "source": "CryptoVest",
+    "date": "2018-07-05T07:00:00.000Z",
+    "title": "Chinese Crypto Firms Unfazed by Bans, Eye Sector Innovations",
+    "url": "https://cryptovest.com/news/chinese-crypto-firms-unfazed-by-bans-eye-sector-innovations/",
+    "feature": false,
+    "skip": false
+  },
+  "CNN": {
+    "source": "CNN",
+    "date": "2018-06-04T07:00:00.000Z",
+    "title": "Crypto hacks: Is your bitcoin investment safe?",
+    "url": "http://money.cnn.com/2018/06/13/investing/bitcoin-cryptocurrency-hacks-security/index.html",
+    "feature": true,
+    "skip": false
+  },
+  "Cointroundup": {
+    "source": "Cointroundup",
+    "date": "2018-06-07T07:00:00.000Z",
+    "title": "Crypto Hacks: Is Your Bitcoin Safe?",
+    "url": "http://www.coinroundup.com/crypto-hacks-is-your-bitcoin-investment-safe/",
+    "feature": false,
+    "skip": true
+  },
+  "Coincryptorama": {
+    "source": "Coincryptorama",
+    "date": "2018-06-07T07:00:00.000Z",
+    "title": "Is Investing in Bitcoin Safe",
+    "url": "http://coincryptorama.com/is-investing-in-bitcoin-safe/",
+    "feature": false,
+    "skip": true
+  },
+  "Bitcoinaltcoinnews": {
+    "source": "Bitcoinaltcoinnews",
+    "date": "2018-06-07T07:00:00.000Z",
+    "title": "Crypto Hacks: Is Your Bitcoin Safe?",
+    "url": "https://bitcoinaltcoinnews.com/index.php/2018/06/13/crypto-hacks-is-your-bitcoin-investment-safe/",
+    "feature": false,
+    "skip": true
+  },
+  "JustCryptocurrencies": {
+    "source": "JustCryptocurrencies",
+    "date": "2018-06-26T07:00:00.000Z",
+    "title": "Q&A With Eiland Glover the CEO and co-founder of Kowala and Ryan Taylor the CEO of the Dash",
+    "url": "https://www.justcryptocurrencies.com/2018/06/25/qa-with-eiland-glover-the-ceo-and-co-founder-of-kowala-and-ryan-taylor-the-ceo-of-the-dash-core-group/",
+    "feature": false,
+    "skip": false
+  },
+  "iCoins": {
+    "source": "iCoins",
+    "date": "2018-06-27T07:00:00.000Z",
+    "title": "Kowala Co-Founder & CEO, Eiland Glover on Bitcoin's changing influence on altcoin prices",
+    "url": "https://icoins.ws/kowala-co-founder-ceo-eiland-glover-joins-the-conversation-with-brad-garlinghouse-on-bitcoins-changing-influence-on-altcoin-prices-tracking-ethereum-value-at-icoins-ws/",
+    "feature": false,
+    "skip": false
+  },
+  "Hodlitbro": {
+    "source": "Hodlitbro",
+    "date": "2018-06-28T07:00:00.000Z",
+    "title": "Stablecoin currency leaders comment on price volatility and bear market",
+    "url": "https://hodlitbro.com.au/2018/06/28/commentary-stablecoin-currency-leaders-comment-on-price-volatility-and-bear-market/",
+    "feature": false,
+    "skip": false
+  },
+  "Crypto Cannibal": {
+    "source": "Crypto Cannibal",
+    "date": "2018-06-29T07:00:00.000Z",
+    "title": "Stablecoin currency leaders, such as Eiland Glover, CEO of Kowala, comment on price volatility and bear market",
+    "url": "https://cryptocannibal.com/2018/06/27/industry-commentary-stablecoin-currency-leaders-such-as-eiland-glover-ceo-of-kowala-comment-on-price-volatility-and-bear-market/",
+    "feature": false,
+    "skip": false
+  },
+  "MorningStar": {
+    "source": "MorningStar",
+    "date": "2018-07-02T07:00:00.000Z",
+    "title": "Bitcoin's meteoric fall means calls for rallies to $25,000 by year-end are in dire jeopardy",
+    "url": "https://www.morningstar.com/news/market-watch/TDJNMW_20180630190/update-bitcoins-plunge-means-one-thing-calls-for-rallies-to-25000-by-yearend-are-in-jeopardy.html",
+    "feature": true,
+    "skip": false
+  },
+  "AmeriTrade": {
+    "source": "AmeriTrade",
+    "date": "2018-07-02T07:00:00.000Z",
+    "title": "Bitcoin's meteoric fall means calls for rallies to $25,000 by year-end are in dire jeopardy",
+    "url": "https://research.tdameritrade.com/grid/public/markets/news/story.asp?docKey=1-SN20180630002891&provider=CBSMarketWatch",
+    "feature": false,
+    "skip": false
+  },
+  "Crypto Insider": {
+    "source": "Crypto Insider",
+    "date": "2018-07-05T07:00:00.000Z",
+    "title": "Stablecoins - everything you need to know",
+    "url": "https://cryptoinsider.21mil.com/stablecoins-everything-need-know-2/",
+    "feature": true,
+    "skip": false
+  },
+  "CoinCentral": {
+    "source": "CoinCentral",
+    "date": "2018-07-18T07:00:00.000Z",
+    "title": "Blockchain and the Battle Against Corruption & Fraud",
+    "url": "https://coincentral.com/blockchain-and-the-battle-against-corruption-fraud/",
+    "feature": true,
+    "skip": false
+  },
+  "Bit-Media": {
+    "source": "Bit-Media",
+    "date": "2018-09-05T07:00:00.000Z",
+    "title": "A Newly Launched Stablecoin You’ve Never Heard of Is Coming to Ledger",
+    "url": "https://bit-media.org/cryptocurrency/kowala-launches-andromeda-the-alpha-mainnet-of-its-usd-pegged-stablecoin/",
+    "feature": false,
+    "skip": true
+  },
+  "Trader Meets Coder": {
+    "source": "Trader Meets Coder",
+    "date": "2018-07-19T07:00:00.000Z",
+    "title": "Blockchain and the Battle Against Corruption & Fraud",
+    "url": "https://tradermeetscoder.com/blockchain-and-the-battle-against-corruption-fraud-coincentral/",
+    "feature": false,
+    "skip": false
+  },
+  "All Crypto Media": {
+    "source": "All Crypto Media",
+    "date": "2018-07-20T07:00:00.000Z",
+    "title": "Blockchain Leaders Share Commentary on Congressional Hearings on Cryptocurrency",
+    "url": "https://allcryptomedia.com/2018/07/19/blockchain-leaders-share-commentary-on-congressional-hearings-on-cryptocurrency-2/",
+    "feature": false,
+    "skip": false
+  },
+  "iTradeICO": {
+    "source": "iTradeICO",
+    "date": "2018-07-20T07:00:00.000Z",
+    "title": "Blockchain Leaders Share Commentary on Congressional Hearings on Cryptocurrency",
+    "url": "https://itradeico.com/2018/07/congressional-hearings-blockchain-leaders-share-commentary-on/12393",
+    "feature": false,
+    "skip": true
+  },
+  "Bitcoin Ads Train": {
+    "source": "Bitcoin Ads Train",
+    "date": "2018-07-20T07:00:00.000Z",
+    "title": "Blockchain and the Battle Against Corruption & Fraud",
+    "url": "https://bitcoinadstrain.com/2018/07/19/blockchain-and-the-battle-against-corruption-fraud/",
+    "feature": false,
+    "skip": false
+  },
+  "Bitsonline": {
+    "source": "Bitsonline",
+    "date": "2018-07-20T07:00:00.000Z",
+    "title": "State of the Stablecoin: Talking kUSD and More with Kowala CEO Eiland Glover",
+    "url": "https://bitsonline.com/kowala-ceo-kusd-stablecoin-convo/",
+    "feature": false,
+    "skip": true
+  },
+  "Cryptochurp": {
+    "source": "Cryptochurp",
+    "date": "2018-07-22T07:00:00.000Z",
+    "title": "State of the Stablecoin: Talking kUSD and More with Kowala CEO Eiland Glover",
+    "url": "https://cryptochurp.com/category/eiland-glover/",
+    "feature": false,
+    "skip": true
+  },
+  "News Crypto News": {
+    "source": "News Crypto News",
+    "date": "2018-07-22T07:00:00.000Z",
+    "title": "State of the Stablecoin: Talking kUSD and More with Kowala CEO Eiland Glover",
+    "url": "http://newscryptonews.com/tag/eiland-glover/",
+    "feature": false,
+    "skip": false
+  },
+  "ChipIn": {
+    "source": "ChipIn",
+    "date": "2018-07-25T07:00:00.000Z",
+    "title": "Bitcoin Bull Run – What do the experts say?",
+    "url": "https://www.chipin.com/bitcoin-bull-run-july/",
+    "feature": false,
+    "skip": false
+  },
+  "BitcoinWarrior": {
+    "source": "BitcoinWarrior",
+    "date": "2018-07-25T07:00:00.000Z",
+    "title": "Analysts React To Bitcoin's Latest Price Explosion",
+    "url": "https://bitcoinwarrior.net/2018/07/analysts-react-to-bitcoins-latest-price-explosion/",
+    "feature": false,
+    "skip": false
+  },
+  "10zTalk": {
+    "source": "10zTalk",
+    "date": "2018-07-25T07:00:00.000Z",
+    "title": "Analysts React To Bitcoin's Latest Price Explosion",
+    "url": "https://bitcoinwarrior.net/2018/07/analysts-react-to-bitcoins-latest-price-explosion/",
+    "feature": false,
+    "skip": true
+  },
+  "Nasdaq": {
+    "source": "Nasdaq",
+    "date": "2018-09-10T07:00:00.000Z",
+    "title": "Bitcoin Magazine’s Week in Review: Lightning, Launches and Broken Promises",
+    "url": "https://www.nasdaq.com/article/bitcoin-magazines-week-in-review-lightning-launches-and-broken-promises-cm1020262",
+    "feature": false,
+    "skip": true
+  },
+  "Pacific Sun Magazine": {
+    "source": "Pacific Sun Magazine",
+    "date": "2018-07-25T07:00:00.000Z",
+    "title": "Blockchain Gains",
+    "url": "https://pacificsun.com/blockchain-gains/",
+    "feature": false,
+    "skip": false
+  },
+  "Crypto Coin Today": {
+    "source": "Crypto Coin Today",
+    "date": "2018-07-25T07:00:00.000Z",
+    "title": "Blockchain Gains",
+    "url": "https://crypto-coin-today.com/2018/07/blockchain-gains-pacific-sun/",
+    "feature": false,
+    "skip": true
+  },
+  "Cryptonewsprime": {
+    "source": "Cryptonewsprime",
+    "date": "2018-07-25T07:00:00.000Z",
+    "title": "Blockchain Gains",
+    "url": "https://cryptonewsprime.com/2018/07/blockchain-gains-pacific-sun/",
+    "feature": false,
+    "skip": true
+  },
+  "Cryptonewsonline": {
+    "source": "Cryptonewsonline",
+    "date": "2018-07-25T07:00:00.000Z",
+    "title": "Blockchain Gains",
+    "url": "http://cryptonewsonline.co/2018/07/blockchain-gains-pacific-sun/",
+    "feature": false,
+    "skip": true
+  },
+  "Cryptonewsnow": {
+    "source": "Cryptonewsnow",
+    "date": "2018-07-25T07:00:00.000Z",
+    "title": "Blockchain Gains",
+    "url": "https://cryptonewsnow.bid/2018/07/blockchain-gains-pacific-sun/",
+    "feature": false,
+    "skip": true
+  },
+  "Coinseveryday": {
+    "source": "Coinseveryday",
+    "date": "2018-07-25T07:00:00.000Z",
+    "title": "Blockchain Gains",
+    "url": "http://coinseveryday.com/2018/07/blockchain-gains-pacific-sun/",
+    "feature": false,
+    "skip": true
+  },
+  "Coinsnewsupdate": {
+    "source": "Coinsnewsupdate",
+    "date": "2018-07-25T07:00:00.000Z",
+    "title": "Blockchain Gains",
+    "url": "https://coinsnewsupdate.com/blockchain-gains-pacific-sun/",
+    "feature": false,
+    "skip": true
+  },
+  "Coinnewsking": {
+    "source": "Coinnewsking",
+    "date": "2018-07-25T07:00:00.000Z",
+    "title": "Blockchain Gains",
+    "url": "http://coinnewsking.com/blockchain-gains/",
+    "feature": false,
+    "skip": true
+  },
+  "Coinmarketnewstoday": {
+    "source": "Coinmarketnewstoday",
+    "date": "2018-07-25T07:00:00.000Z",
+    "title": "Blockchain Gains",
+    "url": "https://coinmarketnewstoday.com/2018/07/blockchain-gains-pacific-sun/",
+    "feature": false,
+    "skip": true
+  },
+  "Widebitcoin": {
+    "source": "Widebitcoin",
+    "date": "2018-07-25T07:00:00.000Z",
+    "title": "Blockchain Gains",
+    "url": "https://www.widebitcoin.com/blockchain-gains-pacific-sun/",
+    "feature": false,
+    "skip": true
+  },
+  "Cryptobuzzmedia": {
+    "source": "Cryptobuzzmedia",
+    "date": "2018-07-25T07:00:00.000Z",
+    "title": "Blockchain Gains",
+    "url": "http://cryptobuzzmedia.com/2018/07/blockchain-gains-pacific-sun/",
+    "feature": false,
+    "skip": true
+  },
+  "Nashville Business Journal": {
+    "source": "Nashville Business Journal",
+    "date": "2018-07-25T07:00:00.000Z",
+    "title": "Beyond Bitcoin",
+    "url": "https://www.bizjournals.com/nashville/news/2018/07/30/beyond-bitcoin-this-nashville-company-wants-to.html",
+    "feature": false,
+    "skip": false
+  },
+  "Ectnews": {
+    "source": "Ectnews",
+    "date": "2018-07-25T07:00:00.000Z",
+    "title": "IBM, CLS Launch Blockchain Platform for Banks",
+    "url": "https://www.ectnews.com/story/85476.html",
+    "feature": false,
+    "skip": true
+  },
+  "Ecommerce Times": {
+    "source": "Ecommerce Times",
+    "date": "2018-08-01T07:00:00.000Z",
+    "title": "IBM, CLS Launch Blockchain Platform for Banks",
+    "url": "https://www.ecommercetimes.com/story/85476.html",
+    "feature": false,
+    "skip": false
+  },
+  "BlockTribune": {
+    "source": "BlockTribune",
+    "date": "2018-08-09T07:00:00.000Z",
+    "title": "Crypto Wallet Provider Ledger Adds Support For Kowala's kUSD Stablecoin",
+    "url": "https://blocktribune.com/crypto-wallet-provider-ledger-adds-support-for-kowalas-kusd-stablecoin/",
+    "feature": false,
+    "skip": true
+  },
+  "NXTAlpha": {
+    "source": "NXTAlpha",
+    "date": "2018-08-09T07:00:00.000Z",
+    "title": "Kowala's kUSD stablecoin earns Ledger support",
+    "url": "https://nxtalpha.com/kowalas-kusd-stablecoin-earns-ledger-support/",
+    "feature": false,
+    "skip": true
+  },
+  "LeapRate": {
+    "source": "LeapRate",
+    "date": "2018-09-05T07:00:00.000Z",
+    "title": "Kowala launches Andromeda, the alpha mainnet of its USD stablecoin",
+    "url": "https://www.leaprate.com/cryptocurrency/tokens/kowala-launches-andromeda-the-alpha-mainnet-of-its-usd-pegged-stablecoin/",
+    "feature": false,
+    "skip": true
+  },
+  "CrowdFund Insider": {
+    "source": "CrowdFund Insider",
+    "date": "2018-08-09T07:00:00.000Z",
+    "title": "Kowala Issues kUSD Stablecoin with Ledger Wallet Support",
+    "url": "https://www.crowdfundinsider.com/2018/08/137589-kowala-issues-kusd-stablecoin-with-ledger-wallet-support/",
+    "feature": false,
+    "skip": true
+  },
+  "VentureCanvas": {
+    "source": "VentureCanvas",
+    "date": "2018-08-09T07:00:00.000Z",
+    "title": "Kowala Issues kUSD Stablecoin with Ledger Wallet Support",
+    "url": "https://www.venturecanvas.com/2018/08/09/kowala-issues-kusd-stablecoin-with-ledger-wallet-support-venturecanvas/",
+    "feature": false,
+    "skip": true
+  },
+  "Junkies.tech": {
+    "source": "Junkies.tech",
+    "date": "2018-08-09T07:00:00.000Z",
+    "title": "Kowala's kUSD turns into first stablecoin with Ledger pockets help",
+    "url": "https://junkies.tech/kowalas-kusd-turns-into-first-stablecoin-with-ledger-pockets-help/",
+    "feature": false,
+    "skip": true
+  },
+  "Lucky Coin Online": {
+    "source": "Lucky Coin Online",
+    "date": "2018-09-04T07:00:00.000Z",
+    "title": "Kowala launches Andromeda, the alpha mainnet of its USD stablecoin",
+    "url": "http://luckycoin.online/kowala-launches-andromeda-the-alpha-mainnet-of-its-usd-stablecoin/",
+    "feature": false,
+    "skip": true
+  },
+  "Bitcoin Exchange Guide": {
+    "source": "Bitcoin Exchange Guide",
+    "date": "2018-09-05T07:00:00.000Z",
+    "title": "USD Stablecoin Kowala Launches Its Alpha Mainnet Andromeda",
+    "url": "http://thecoinagetimes.com/index.php/2018/09/04/kowala-launches-andromeda-the-alpha-mainnet-of-its-usd-stablecoin/",
+    "feature": false,
+    "skip": false
+  },
+  "The Daily Hodl": {
+    "source": "The Daily Hodl",
+    "date": "2018-08-09T07:00:00.000Z",
+    "title": "Ledger Supports Cryptocurrency Aimed at Eliminating the Need for Cash or Gold Reserves",
+    "url": "https://dailyhodl.com/2018/08/09/ledger-supports-cryptocurrency-aimed-at-eliminating-the-need-for-cash-or-gold-reserves/",
+    "feature": false,
+    "skip": false
+  },
+  "Block Tribune": {
+    "source": "Block Tribune",
+    "date": "2018-08-11T07:00:00.000Z",
+    "title": "Kowala kUSD becomes first stablecoin with Ledger support",
+    "url": "https://blocktribune.com/crypto-wallet-provider-ledger-adds-support-for-kowalas-kusd-stablecoin/",
+    "feature": false,
+    "skip": false
+  },
+  "Block Asia": {
+    "source": "Block Asia",
+    "date": "2018-08-10T07:00:00.000Z",
+    "title": "Kowala's Kusd Becomes First Stablecoin With Ledger Hardware Wallet Support",
+    "url": "https://www.blockasia.io/kowalas-kusd-becomes-first-stablecoin-with-ledger-hardware-wallet-support/",
+    "feature": false,
+    "skip": false
+  },
+  "Cryptobriefing": {
+    "source": "Cryptobriefing",
+    "date": "2018-08-10T07:00:00.000Z",
+    "title": "Ledger Chooses Kowala KUSD As First Stablecoin",
+    "url": "https://cryptobriefing.com/ledger-chooses-kowala-kusd-as-first-stablecoin/",
+    "feature": false,
+    "skip": false
+  },
+  "Bitcoin.com": {
+    "source": "Bitcoin.com",
+    "date": "2018-08-21T07:00:00.000Z",
+    "title": "Trump vs Erdoğan: Bitcoin Is the Answer to Turkey's Financial Chaos",
+    "url": "https://news.bitcoin.com/trump-erdogan-battle-turkey-in-financial-chaos-bitcoins-answer/",
+    "feature": true,
+    "skip": false
+  },
+  "8btc": {
+    "source": "8btc",
+    "date": "2018-08-13T07:00:00.000Z",
+    "title": "An In-Depth Look at the Cryptocurrency Economy's ‘Stablecoin' Trend",
+    "url": "https://www.8btc.com/article/251033",
+    "feature": false,
+    "skip": true
+  },
+  "The Coinage Times": {
+    "source": "The Coinage Times",
+    "date": "2018-09-04T07:00:00.000Z",
+    "title": "Kowala launches Andromeda, the alpha mainnet of its USD stablecoin",
+    "url": "http://thecoinagetimes.com/index.php/2018/09/04/kowala-launches-andromeda-the-alpha-mainnet-of-its-usd-stablecoin/",
+    "feature": false,
+    "skip": true
+  },
+  "Block2Block.io": {
+    "source": "Block2Block.io",
+    "date": "2018-08-13T07:00:00.000Z",
+    "title": "An In-Depth Look at the Cryptocurrency Economy's ‘Stablecoin' Trend",
+    "url": "https://www.block2block.io/an-in-depth-look-at-the-cryptocurrency-economys-stablecoin-trend/",
+    "feature": false,
+    "skip": true
+  },
+  "iCenter.co": {
+    "source": "iCenter.co",
+    "date": "2018-08-14T07:00:00.000Z",
+    "title": "An In-Depth Look at the Cryptocurrency Economy's ‘Stablecoin' Trend",
+    "url": "https://icenter.co/depth-look-cryptocurrency-economys-stablecoin-trend/",
+    "feature": false,
+    "skip": true
+  },
+  "CryptoLab News": {
+    "source": "CryptoLab News",
+    "date": "2018-08-14T07:00:00.000Z",
+    "title": "An In-Depth Look at the Cryptocurrency Economy's ‘Stablecoin' Trend",
+    "url": "http://cryptolab.news/category/usdt-2/",
+    "feature": false,
+    "skip": true
+  },
+  "To The Moon News": {
+    "source": "To The Moon News",
+    "date": "2018-08-14T07:00:00.000Z",
+    "title": "An In-Depth Look at the Cryptocurrency Economy's ‘Stablecoin' Trend",
+    "url": "http://tothemoonnews.com/an-in-depth-look-at-the-cryptocurrency-economys-stablecoin-trend/",
+    "feature": false,
+    "skip": true
+  },
+  "The Independent": {
+    "source": "The Independent",
+    "date": "2018-08-14T07:00:00.000Z",
+    "title": "Cryptocurrency Markets Hit 'Panic Mode' as Bitcoin and Ethereum See Huge Price Crash",
+    "url": "https://www.independent.co.uk/life-style/gadgets-and-tech/news/cryptocurrency-market-bitcoin-ethereum-price-crash-a8491001.html",
+    "feature": false,
+    "skip": false
+  },
+  "MarketWatch": {
+    "source": "MarketWatch",
+    "date": "2018-08-14T07:00:00.000Z",
+    "title": "Bitcoin’s recent meteoric fall means calls for rallies to $25,000 in 2018 are in jeopardy",
+    "url": "https://www.marketwatch.com/story/bitcoins-plunge-means-one-thing-calls-for-rallies-to-25000-by-year-end-are-fadingfast-2018-06-29",
+    "feature": true,
+    "skip": false
+  },
+  "Cryptomode": {
+    "source": "Cryptomode",
+    "date": "2018-08-14T07:00:00.000Z",
+    "title": "Ethereum Price Watch: Currency at Its Lowest Point of the Year",
+    "url": "https://cryptomode.com/ethereum-price-watch-currency-at-its-lowest-point-of-the-year/",
+    "feature": false,
+    "skip": false
+  },
+  "Money Morning": {
+    "source": "Money Morning",
+    "date": "2018-08-15T07:00:00.000Z",
+    "title": "Panic mode! Bitcoin and ethereum plummet in price",
+    "url": "https://www.moneymorning.com.au/20180815/cryptocurrency-markets-hit-panic-mode-after-bitcoin-and-ethereum-prices-plummet.html",
+    "feature": false,
+    "skip": false
+  },
+  "Biedex": {
+    "source": "Biedex",
+    "date": "2018-08-15T07:00:00.000Z",
+    "title": "Panic mode! Bitcoin and ethereum plummet in price",
+    "url": "https://www.biedex.com/panic-mode-bitcoin-and-ethereum-plummet-in-price/",
+    "feature": false,
+    "skip": false
+  },
+  "National Daily Newspaper": {
+    "source": "National Daily Newspaper",
+    "date": "2018-08-15T07:00:00.000Z",
+    "title": "Panic mode! Bitcoin and ethereum plummet in price",
+    "url": "https://nationaldailyng.com/investors-panic-as-prices-of-bitcoin-others-plummet/",
+    "feature": false,
+    "skip": false
+  },
+  "GossipPress": {
+    "source": "GossipPress",
+    "date": "2018-08-17T07:00:00.000Z",
+    "title": "Bitcoin’s recent meteoric fall means calls for rallies to $25,000 in 2018 are in jeopardy – MarketWatch",
+    "url": "https://www.gossippress.com/bitcoins-recent-meteoric-fall-means-calls-for-rallies-to-25000-in-2018-are-in-jeopardy-marketwatch/ ",
+    "feature": false,
+    "skip": false
+  },
+  "BlockTelegraph": {
+    "source": "BlockTelegraph",
+    "date": "2018-08-20T07:00:00.000Z",
+    "title": "Kowala’s Stablecoin Becomes First with Hardware Wallet Support",
+    "url": "https://blocktelegraph.io/kowalas-stablecoin-first-hardware-wallet/",
+    "feature": false,
+    "skip": false
+  },
+  "Brave New Coin": {
+    "source": "Brave New Coin",
+    "date": "2018-08-20T07:00:00.000Z",
+    "title": "Emerging market turmoil could be breeding ground for stable coins",
+    "url": "https://bravenewcoin.com/news/emerging-market-turmoil-could-be-breeding-ground-for-stable-coins/",
+    "feature": false,
+    "skip": false
+  },
+  "NewsAltCoins": {
+    "source": "NewsAltCoins",
+    "date": "2018-08-21T07:00:00.000Z",
+    "title": "Trump vs Erdoğan: Bitcoin Is the Answer to Turkey's Financial Chaos",
+    "url": "http://newsaltcoins.com/crypto/trump-vs-erdogan-bitcoin-is-the-answer-to-turkeys-financial-chaos/",
+    "feature": false,
+    "skip": true
+  },
+  "Cryptos Herald": {
+    "source": "Cryptos Herald",
+    "date": "2018-08-21T07:00:00.000Z",
+    "title": "Trump vs Erdoğan: Bitcoin Is the Answer to Turkey's Financial Chaos",
+    "url": "https://cryptosherald.com/2018/08/21/trump-vs-erdogan-bitcoin-is-the-answer-to-turkeys-financial-chaos/",
+    "feature": false,
+    "skip": true
+  },
+  "Trading Crypto": {
+    "source": "Trading Crypto",
+    "date": "2018-08-21T07:00:00.000Z",
+    "title": "Trump vs Erdoğan: Bitcoin Is the Answer to Turkey's Financial Chaos",
+    "url": "http://www.tradingcrypto.eu/bitcoin/trump-vs-erdogan-bitcoin-is-the-answer-to-turkeys-financial-chaos/",
+    "feature": false,
+    "skip": true
+  },
+  "Finrazor": {
+    "source": "Finrazor",
+    "date": "2018-08-21T07:00:00.000Z",
+    "title": "Trump vs Erdoğan: Bitcoin Is the Answer to Turkey's Financial Chaos",
+    "url": "https://finrazor.com/news/turks-exile-from-the-lira-into-bitcoin",
+    "feature": false,
+    "skip": true
+  },
+  "The News Articles": {
+    "source": "The News Articles",
+    "date": "2018-08-21T07:00:00.000Z",
+    "title": "Trump vs Erdoğan: Bitcoin Is the Answer to Turkey's Financial Chaos",
+    "url": "https://thenewsarticles.com/trump-vs-erdogan-bitcoin-is-the-answer-to-turkeys-financial-chaos/",
+    "feature": false,
+    "skip": true
+  },
+  "Buzzeology": {
+    "source": "Buzzeology",
+    "date": "2018-08-21T07:00:00.000Z",
+    "title": "Trump vs Erdoğan: Bitcoin Is the Answer to Turkey's Financial Chaos",
+    "url": "http://buzzeology.com/trump-vs-erdogan-bitcoin-is-the-answer-to-turkeys-financial-chaos-buzzeology/",
+    "feature": false,
+    "skip": true
+  },
+  "PYMNTS.com": {
+    "source": "PYMNTS.com",
+    "date": "2018-08-21T07:00:00.000Z",
+    "title": "Amid Lira’s Lurch, Blockchain As Monetary Policy Fix?",
+    "url": "https://www.pymnts.com/blockchain/2018/lira-dlt-monetary-policy/",
+    "feature": false,
+    "skip": false
+  },
+  "Asia-Pacific Newswire.": {
+    "source": "Asia-Pacific Newswire.",
+    "date": "2018-08-21T07:00:00.000Z",
+    "title": "Amid Lira’s Lurch, Blockchain As Monetary Policy Fix?",
+    "url": "https://apacnewswire.com/2018/08/21/amid-liras-lurch-blockchain-as-monetary-policy-fix/",
+    "feature": false,
+    "skip": true
+  },
+  "Business Crypto News": {
+    "source": "Business Crypto News",
+    "date": "2018-08-21T07:00:00.000Z",
+    "title": "Blockchain As Monetary Policy Fix?",
+    "url": "http://businesscryptonews.com/blockchain-as-monetary-policy-fix/",
+    "feature": false,
+    "skip": false
+  },
+  "ClpCoin": {
+    "source": "ClpCoin",
+    "date": "2018-08-24T07:00:00.000Z",
+    "title": "Trump vs Erdoğan: Bitcoin Is the Answer to Turkey’s Financial Chaos",
+    "url": "https://news.clpcoin.co/Market/trump-vs-erdogan-bitcoin-is-the-answer-to-turkeys-financial-chaos-3437",
+    "feature": false,
+    "skip": false
+  },
+  "CoinIt.ir [Iran]": {
+    "source": "CoinIt.ir [Iran]",
+    "date": "2018-08-24T07:00:00.000Z",
+    "title": "Bitcoin is the only way for Turkey to escape from an economic crisis",
+    "url": "https://translate.google.com/translate?hl=en&sl=fa&u=https://www.coinit.ir/1397/06/trump-erdogan-battle-turkey-in-financial-chaos-bitcoins-answer/&prev=search",
+    "feature": false,
+    "skip": false
+  },
+  "InfoCoin": {
+    "source": "InfoCoin",
+    "date": "2018-08-24T07:00:00.000Z",
+    "title": "The Venezuela’s cryptocurrency Petro, can be an example for Turkey",
+    "url": "http://infocoin.net/en/2018/08/23/the-venezuelas-cryptocurrency-petro-can-be-an-example-for-turkey/",
+    "feature": false,
+    "skip": false
+  },
+  "Stable Report": {
+    "source": "Stable Report",
+    "date": "2018-08-27T07:00:00.000Z",
+    "title": "Stable.Report, Aug.20 — Aug.26",
+    "url": "https://stable.report/",
+    "feature": false,
+    "skip": false
+  },
+  "Ahvalnews": {
+    "source": "Ahvalnews",
+    "date": "2018-08-27T07:00:00.000Z",
+    "title": "Turkey appears ripe for bitcoin adoption - Bitcoin.com",
+    "url": "https://ahvalnews.com/turkish-economy/turkey-appears-ripe-bitcoin-adoption-bitcoincom",
+    "feature": false,
+    "skip": false
+  },
+  "Blokt": {
+    "source": "Blokt",
+    "date": "2018-08-30T07:00:00.000Z",
+    "title": "Cryptocurrency, Venezuela’s Answer to Economic Obliteration?",
+    "url": "https://blokt.com/news/cryptocurrency-venezuelas-answer-to-economic-obliteration",
+    "feature": false,
+    "skip": false
+  },
+  "Crypto Briefing": {
+    "source": "Crypto Briefing",
+    "date": "2018-09-04T07:00:00.000Z",
+    "title": "For A Few Dollars Less: Kowala Stablecoin Backed By Math And Code",
+    "url": "https://cryptobriefing.com/for-a-few-dollars-less-kowala-stablecoin-backed-by-math-and-code/",
+    "feature": false,
+    "skip": false
+  },
+  "CryptoNinjas": {
+    "source": "CryptoNinjas",
+    "date": "2018-09-04T07:00:00.000Z",
+    "title": "Kowala launches Andromeda, the alpha mainnet of its USD stablecoin",
+    "url": "https://www.cryptoninjas.net/2018/09/04/kowala-launches-andromeda-the-alpha-mainnet-of-its-usd-stablecoin/",
+    "feature": false,
+    "skip": true
+  },
+  "Fintech Finance": {
+    "source": "Fintech Finance",
+    "date": "2018-09-05T07:00:00.000Z",
+    "title": "Kowala launches Andromeda, the alpha mainnet of its USD stablecoin",
+    "url": " https://www.fintech.finance/01-news/kowala-launches-andromeda-the-alpha-mainnet-of-its-usd-pegged-stablecoin/",
+    "feature": false,
+    "skip": true
+  },
+  "Bitcoin Magazine": {
+    "source": "Bitcoin Magazine",
+    "date": "2018-09-10T07:00:00.000Z",
+    "title": "Bitcoin Magazine’s Week in Review: Lightning, Launches and Broken Promises",
+    "url": "https://bitcoinmagazine.com/articles/bitcoin-magazines-week-review-lightning-launches-and-broken-promises/",
+    "feature": true,
+    "skip": false
+  },
+  "CNBC": {
+    "source": "CNBC",
+    "date": "2018-09-12T07:00:00.000Z",
+    "title": "Ether plunges more than bitcoin, frustrating investors who believed it was the better alternative",
+    "url": "https://www.cnbc.com/2018/09/06/ether-was-hyped-as-the-better-more-useful-version-of-bitcoin-but-some-investors-have-run-out-of-patience.html",
+    "feature": true,
+    "skip": true
+  },
+  "Yahoo Finance": {
+    "source": "Yahoo Finance",
+    "date": "2018-09-12T07:00:00.000Z",
+    "title": "Ether plunges more than bitcoin, frustrating investors who believed it was the better alternative",
+    "url": "https://sg.finance.yahoo.com/news/ether-plunges-more-bitcoin-frustrating-184000912.html",
+    "feature": true,
+    "skip": true
+  },
+  "MSN": {
+    "source": "MSN",
+    "date": "2018-09-13T07:00:00.000Z",
+    "title": "Ether plunges more than bitcoin, frustrating investors who believed it was the better alternative",
+    "url": "https://www.msn.com/en-us/money/markets/ether-plunges-more-than-bitcoin-frustrating-investors-who-believed-it-was-the-better-alternative/ar-BBMY8k6",
+    "feature": false,
+    "skip": false
+  },
+  "Azeri Times": {
+    "source": "Azeri Times",
+    "date": "2018-09-13T07:00:00.000Z",
+    "title": "Ether plunges more than bitcoin, frustrating investors who believed it was the better alternative",
+    "url": "http://www.azeritimes.com/business/ether-plunges-more-than-bitcoin-frustrating-investors-who-believed-it-was-the-better-alternative/",
+    "feature": false,
+    "skip": true
+  },
+  "Crypto Disrupt": {
+    "source": "Crypto Disrupt",
+    "date": "2018-09-13T07:00:00.000Z",
+    "title": "Ethereum Project Facing Investor Crisis – Long Term Project Analysis",
+    "url": "https://www.cryptodisrupt.com/ethereum-project-facing-investor-crisis-long-term-project-analysis/ ",
+    "feature": false,
+    "skip": true
+  },
+  "Crypto Globe": {
+    "source": "Crypto Globe",
+    "date": "2018-09-13T07:00:00.000Z",
+    "title": "Ethereum Project Facing Investor Crisis – Long Term Project Analysis",
+    "url": "https://www.cryptoglobe.com/latest/2018/09/ether-price-down-due-to-short-sellers-scam-icos-scalability-issues/ ",
+    "feature": false,
+    "skip": true
+  },
+  "Yatou": {
+    "source": "Yatou",
+    "date": "2018-09-13T07:00:00.000Z",
+    "title": "Ethereum Project Facing Investor Crisis – Long Term Project Analysis",
+    "url": "https://www.yatou.com/news/2018-09/924917.htm",
+    "feature": false,
+    "skip": true
+  }
+}
