@@ -1,0 +1,4 @@
+.column
+  h6 {{.Get "title"}}
+  .inner
+    {{.Inner | markdownify}}

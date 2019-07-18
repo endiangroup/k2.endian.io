@@ -3,14 +3,17 @@ body
   header
     section
       h1
-        img src="/img/logo.svg" alt="K2"
-      h2 Stable digital currency for humans
-      h3 An open source, non-profit cryptocurrency that holds its value and makes sense to ordinary people
+        img src="/img/logo.svg?v=2" alt="K2"
+      h2 Stable digital currency protocol for humans
+      h3 Working toward an open source, non-profit cryptocurrency that holds its value and makes sense to ordinary people
 
-      ul#ctas
-        li
-          a href="" Whitepaper and principles
-        li
-          a href="" Benefits for humans
-        li
-          a href="" Source code
+    .arrow
+      span
+      span
+      span
+
+  main
+    {{.Content}}
+
+  footer
+    img src="/img/logo.svg?v=2" alt="K2"
