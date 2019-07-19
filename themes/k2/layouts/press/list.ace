@@ -1,8 +1,9 @@
 {{ partial "head" . }}
 body
   #content
-    section.intro
-      h2 Kowala in the press
+    .bar 
+      section.intro
+        h2 Kowala in the press
 
     section.press
       .container
@@ -16,3 +17,6 @@ body
                 h5 {{ dateFormat "January 2, 2006" .date }} &mdash; {{.source}}
           {{end}}
         {{end}}
+
+  footer
+    img src="/img/logo.svg?v=2" alt="K2"

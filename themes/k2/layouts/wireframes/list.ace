@@ -1,8 +1,9 @@
 {{ partial "head" . }}
 body
   #content
-    section.intro
-      h2 K2 pilot project app wireframes
+    .bar
+      section.intro
+        h2 K2 pilot project app wireframes
 
     section.gallery#lightgallery
       a href="/img/wireframes/00.png"
@@ -36,3 +37,6 @@ body
 
   script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.1.3/dist/js/lightgallery.min.js"
   script type="text/javascript" lightGallery(document.getElementById('lightgallery')); 
+
+  footer
+    img src="/img/logo.svg?v=2" alt="K2"
