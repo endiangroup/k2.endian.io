@@ -38,7 +38,7 @@ pipeline:
     deploy-production:
       image: plugins/s3
       acl: public-read
-      region: "eu-west0"
+      region: "eu-west-2"
       bucket: "k2.endian.io"
       source: public/**/*
       strip_prefix: public/
