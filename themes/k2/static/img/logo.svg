@@ -1,301 +1,79 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 1189.4846 519.59004"
+   width="134.9375mm"
+   height="134.9375mm"
+   viewBox="0 0 134.9375 134.9375"
    version="1.1"
-   id="svg925"
-   sodipodi:docname="logo.svg"
-   width="1189.4846"
-   height="519.59003"
-   inkscape:version="0.92.2 2405546, 2018-03-11">
-  <metadata
-     id="metadata929">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>mountains</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+   id="svg958"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs952" />
   <sodipodi:namedview
+     id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:window-width="3840"
-     inkscape:window-height="2075"
-     id="namedview927"
+     inkscape:zoom="1.1968098"
+     inkscape:cx="257.8803"
+     inkscape:cy="135.48718"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:pagecheckerboard="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="1.580902"
-     inkscape:cx="335.31394"
-     inkscape:cy="131.33673"
-     inkscape:window-x="7680"
-     inkscape:window-y="2196"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg925" />
-  <defs
-     id="defs847">
-    <style
-       id="style815">.cls-1{fill:#ff3939;}.cls-2{fill:#051928;}.cls-3{fill:#f4aa4a;}.cls-4{opacity:0.3;}.cls-5{fill:#fff;}.cls-6{fill:url(#linear-gradient);}.cls-7{fill:url(#linear-gradient-2);}.cls-8{fill:url(#linear-gradient-3);}.cls-9{fill:url(#linear-gradient-4);}.cls-10{fill:url(#linear-gradient-5);}.cls-11{fill:#d6d7d8;}.cls-12{fill:url(#linear-gradient-6);}.cls-13{fill:url(#linear-gradient-7);}.cls-14{fill:url(#linear-gradient-8);}</style>
-    <linearGradient
-       id="linear-gradient"
-       x1="603.84998"
-       y1="730.73999"
-       x2="421.85001"
-       y2="242.74001"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0.01"
-         stop-color="#d7c41a"
-         id="stop817" />
-      <stop
-         offset="0.5"
-         stop-color="#0a7e3f"
-         id="stop819" />
-      <stop
-         offset="1"
-         stop-color="#478dcb"
-         id="stop821" />
-    </linearGradient>
-    <linearGradient
-       id="linear-gradient-2"
-       x1="319.69"
-       y1="530.90002"
-       x2="485.69"
-       y2="-123.1"
-       xlink:href="#linear-gradient" />
-    <linearGradient
-       id="linear-gradient-3"
-       x1="119.64"
-       y1="570.77002"
-       x2="109.64"
-       y2="170.77"
-       xlink:href="#linear-gradient" />
-    <linearGradient
-       id="linear-gradient-4"
-       x1="606.91998"
-       y1="313.62"
-       x2="676.91998"
-       y2="469.62"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0.01"
-         stop-color="#d7c41a"
-         id="stop826" />
-      <stop
-         offset="0.45"
-         stop-color="#e2640f"
-         id="stop828" />
-      <stop
-         offset="1"
-         stop-color="#d3161a"
-         id="stop830" />
-    </linearGradient>
-    <linearGradient
-       id="linear-gradient-5"
-       x1="533.71997"
-       y1="417.10999"
-       x2="662.40002"
-       y2="417.10999"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0"
-         stop-color="#d7c41a"
-         id="stop833" />
-      <stop
-         offset="1"
-         stop-color="#e2640f"
-         id="stop835" />
-    </linearGradient>
-    <linearGradient
-       id="linear-gradient-6"
-       x1="348.04999"
-       y1="737.09003"
-       x2="190.05"
-       y2="313.07999"
-       xlink:href="#linear-gradient" />
-    <linearGradient
-       id="linear-gradient-7"
-       x1="213.92"
-       y1="646.45001"
-       x2="245.92"
-       y2="330.45001"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0"
-         stop-color="#0a7e3f"
-         id="stop839" />
-      <stop
-         offset="0.33"
-         stop-color="#d7c41a"
-         id="stop841" />
-      <stop
-         offset="1"
-         stop-color="#e2640f"
-         id="stop843" />
-    </linearGradient>
-    <linearGradient
-       id="linear-gradient-8"
-       x1="278.19"
-       y1="297.14001"
-       x2="384.19"
-       y2="643.14001"
-       xlink:href="#linear-gradient-4" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linear-gradient"
-       id="linearGradient971"
-       gradientUnits="userSpaceOnUse"
-       x1="603.84998"
-       y1="730.73999"
-       x2="421.85001"
-       y2="242.74001" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linear-gradient-4"
-       id="linearGradient973"
-       gradientUnits="userSpaceOnUse"
-       x1="606.91998"
-       y1="313.62"
-       x2="676.91998"
-       y2="469.62" />
-  </defs>
-  <title
-     id="title849">mountains</title>
+     inkscape:window-width="3840"
+     inkscape:window-height="2116"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata955">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <g
-     style="opacity:0.3"
-     class="cls-4"
-     id="g879"
-     transform="translate(379.30459,-37.08)">
-    <polygon
-       style="fill:#ffffff"
-       class="cls-5"
-       points="202.13,556.67 427.91,556.67 556.23,556.67 756,477.91 544.68,156.01 "
-       id="polygon877" />
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-17.104636,-45.708508)">
+    <path
+       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.59466743;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 215.30664 40.828125 C 210.94999 49.173484 205.68675 58.83452 199.66797 69.609375 C 193.64919 80.384226 186.87512 92.273876 179.5 105.07812 C 164.74976 130.68664 147.5928 159.95375 129.25195 191.2793 C 110.91112 222.60486 91.385511 255.98826 71.900391 289.83008 C 62.157838 306.75102 52.42541 323.78647 42.855469 340.73633 C 37.790917 349.70643 32.952681 358.51175 28.001953 367.4043 A 257.08308 253.0758 43.748309 0 0 41.595703 391.12891 A 257.08308 253.0758 43.748309 0 0 76.005859 433.89062 A 257.08308 253.0758 43.748309 0 0 436.86719 436.7207 A 257.08308 253.0758 43.748309 0 0 472.53711 391.12891 A 257.08308 253.0758 43.748309 0 0 486.20703 365.94141 L 366.75391 166.28125 L 330.00977 214.94727 L 219.05859 40.828125 L 217.5957 40.828125 L 216.76758 40.828125 L 215.30664 40.828125 z "
+       transform="matrix(0.26458333,0,0,0.26458333,17.104636,45.708508)"
+       id="path853" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.68650573;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 85.034585,45.72551 A 68.019898,66.959639 43.748309 0 0 36.465064,65.096655 68.019898,66.959639 43.748309 0 0 24.513433,142.91779 c 1.30988,-2.35282 2.590159,-4.68272 3.930155,-7.05606 2.532047,-4.48465 5.10703,-8.99198 7.684747,-13.46898 5.155438,-8.95398 10.321586,-17.78675 15.174264,-26.074971 4.852683,-8.288218 9.392023,-16.031786 13.294691,-22.807371 1.951334,-3.387791 3.743595,-6.533537 5.336064,-9.384383 1.592468,-2.850847 2.985322,-5.406841 4.138019,-7.614884 h 0.386242 0.21945 0.386591 l 29.356254,46.068699 9.72162,-12.876004 31.60522,52.826884 A 68.019898,66.959639 43.748309 0 0 131.94293,65.845357 68.019898,66.959639 43.748309 0 0 85.034585,45.72551 Z"
+       id="path837"
+       inkscape:export-xdpi="1744.92"
+       inkscape:export-ydpi="1744.92"
+       inkscape:connector-curvature="0" />
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.35757828px;line-height:1.25;font-family:'League Spartan';-inkscape-font-specification:'League Spartan';letter-spacing:5.43861628px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.28575611"
+       d="M 335.75391 263.98828 C 297.35354 263.98828 283.63867 305.13086 283.63867 305.13086 L 310.55469 318.16016 C 310.55469 318.16016 320.32519 291.24609 335.75391 291.24609 C 354.61122 291.24609 355.81055 308.56021 355.81055 313.70312 C 355.81055 339.76051 282.95312 399.93164 282.95312 399.93164 L 282.95312 407.99023 L 393.18359 407.99023 L 393.18359 379.70312 L 340.72461 379.70312 C 340.72461 379.70312 390.61133 346.78915 390.61133 313.70312 C 390.61133 295.87438 384.26868 263.98828 335.75391 263.98828 z M 128.32031 266.55859 L 128.32031 407.99023 L 160.55078 407.99023 L 160.55078 347.98828 L 212.66406 407.99023 L 257.06445 407.99023 L 191.23633 333.58789 L 248.15039 266.55859 L 209.06445 266.55859 L 160.55078 324.33203 L 160.55078 266.55859 L 128.32031 266.55859 z "
+       transform="matrix(0.26458333,0,0,0.26458333,17.104636,45.708508)"
+       id="path825" />
   </g>
-  <g
-     style="opacity:0.3"
-     class="cls-4"
-     id="g883"
-     transform="translate(379.30459,-37.08)">
-    <polygon
-       style="fill:#ffffff"
-       class="cls-5"
-       points="36.55,556.67 160.72,556.67 289.04,556.67 554.7,441.02 327.3,84.39 "
-       id="polygon881" />
-  </g>
-  <polygon
-     style="fill:url(#linearGradient971)"
-     class="cls-6"
-     points="440.87,37.08 437.5,37.08 361.88,556.67 715.98,556.67 "
-     id="polygon889"
-     transform="translate(379.30459,-37.08)" />
-  <polygon
-     style="fill:url(#linear-gradient-2)"
-     class="cls-7"
-     points="438.72,37.08 435.35,37.08 136.11,556.67 490.2,556.67 "
-     id="polygon891"
-     transform="translate(379.30459,-37.08)" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:344.16482544px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#3588a1;fill-opacity:1;stroke:none;stroke-width:8.60412025"
-     x="193.50667"
-     y="519.11255"
-     id="text1188"><tspan
-       sodipodi:role="line"
-       id="tspan1186"
-       x="193.50667"
-       y="519.11255"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#3588a1;fill-opacity:1;stroke-width:8.60412025">K2</tspan></text>
-  <polygon
-     style="fill:url(#linear-gradient-3)"
-     class="cls-8"
-     points="0,556.67 238.58,556.67 197.98,223.16 "
-     id="polygon893"
-     transform="translate(379.30459,-37.08)" />
-  <polygon
-     style="fill:url(#linearGradient973)"
-     class="cls-9"
-     points="810.18,556.67 621.78,556.67 662.4,277.55 "
-     id="polygon895"
-     transform="translate(379.30459,-37.08)" />
-  <polygon
-     style="fill:url(#linear-gradient-5)"
-     class="cls-10"
-     points="533.72,556.67 621.78,556.67 662.4,277.55 "
-     id="polygon897"
-     transform="translate(379.30459,-37.08)" />
-  <polygon
-     style="fill:#ffffff"
-     class="cls-5"
-     points="349.05,186.91 386.85,169.94 381.98,236.1 424.85,188.58 461.19,263.84 438.72,37.08 435.35,37.08 "
-     id="polygon899"
-     transform="translate(379.30459,-37.08)" />
-  <polygon
-     style="fill:#d6d7d8"
-     class="cls-11"
-     points="461.19,263.84 485.42,221.93 506.18,246.5 514.63,210.23 544.68,233.13 440.87,37.08 438.72,37.08 "
-     id="polygon901"
-     transform="translate(379.30459,-37.08)" />
-  <polygon
-     style="fill:#d6d7d8"
-     class="cls-11"
-     points="662.4,277.55 640.11,430.7 630.97,378.85 600.69,411.4 "
-     id="polygon903"
-     transform="translate(379.30459,-37.08)" />
-  <polygon
-     style="fill:#ffffff"
-     class="cls-5"
-     points="662.4,397.25 640.11,430.7 662.4,277.55 734.87,414.44 715.98,402.23 705.15,452.47 "
-     id="polygon905"
-     transform="translate(379.30459,-37.08)" />
-  <polygon
-     style="fill:url(#linear-gradient-6)"
-     class="cls-12"
-     points="334.42,556.67 227.21,556.67 197.98,223.16 "
-     id="polygon907"
-     transform="translate(379.30459,-37.08)" />
-  <polygon
-     style="fill:url(#linear-gradient-7)"
-     class="cls-13"
-     points="127.05,556.67 318.97,556.67 282.98,366.91 "
-     id="polygon909"
-     transform="translate(379.30459,-37.08)" />
-  <polygon
-     style="fill:url(#linear-gradient-8)"
-     class="cls-14"
-     points="404.26,556.67 311.14,556.67 282.98,366.91 "
-     id="polygon911"
-     transform="translate(379.30459,-37.08)" />
-  <polygon
-     style="fill:#ffffff"
-     class="cls-5"
-     points="176.86,320.65 166.03,302.25 140.09,320.68 197.98,223.16 207.86,335.94 189.31,306.73 "
-     id="polygon913"
-     transform="translate(379.30459,-37.08)" />
-  <polygon
-     style="fill:#d6d7d8"
-     class="cls-11"
-     points="207.86,335.94 217.47,317.67 240.98,328.28 197.98,223.16 "
-     id="polygon915"
-     transform="translate(379.30459,-37.08)" />
 </svg>

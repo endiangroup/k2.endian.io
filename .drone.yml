@@ -4,7 +4,7 @@ pipeline:
       image: endian/hugo:1.0.3
       environment:
         - HUGO_ENV="staging"
-        - HUGO_BASEURL="http://staging.k2.endian.io"
+        - HUGO_BASEURL="http://k2.staging.endian.io"
       commands:
         - make build
       when:
@@ -25,8 +25,8 @@ pipeline:
     deploy-staging:
       image: plugins/s3
       acl: public-read
-      region: "eu-west-2"
-      bucket: "staging.k2.endian.io"
+      region: "eu-west-1"
+      bucket: "k2.staging.endian.io"
       source: public/**/*
       strip_prefix: public/
       target: /
@@ -38,7 +38,7 @@ pipeline:
     deploy-production:
       image: plugins/s3
       acl: public-read
-      region: "eu-west-2"
+      region: "eu-west0"
       bucket: "k2.endian.io"
       source: public/**/*
       strip_prefix: public/

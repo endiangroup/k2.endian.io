@@ -1,1 +1,3 @@
-script defer="true" src="/js/app.js?v={{.GitInfo.Hash}}3"
+script defer="true" src="/js/app.js?v=2"
+script defer="true" src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.1.3/dist/js/lightgallery.min.js"
+script src="https://unpkg.com/littlefoot/dist/littlefoot.min.js" type="application/javascript"

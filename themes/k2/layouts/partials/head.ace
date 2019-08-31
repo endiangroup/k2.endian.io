@@ -22,7 +22,7 @@ head
   link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"
   link rel="manifest" href="/manifest.json"
   link rel="mask-icon" href="/safari-pinned-tab.svg" color="#0C1516"
-  meta name="theme-color" content="#EAEAEA"
+  meta name="theme-color" content="#4ea386"
 
   link href="https://fonts.googleapis.com/css?family=Cabin:400,600&display=swap" rel="stylesheet"
   link href="https://fonts.googleapis.com/css?family=PT+Sans:400,600&display=swap" rel="stylesheet"
@@ -35,6 +35,10 @@ head
 
   {{ $style := resources.Get "styles/k2.sass" | resources.ToCSS $options | resources.Fingerprint }}
   link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}"
+
+  link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.1.3/dist/css/lightgallery.css"
+  link type="text/css" rel="stylesheet" href="/fonts/leaguespartan.css"
+  link rel="stylesheet" href="https://unpkg.com/littlefoot/dist/littlefoot.css"
 
   {{ partial "javascript" . }}
 
