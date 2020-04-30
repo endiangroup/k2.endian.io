@@ -7,7 +7,7 @@
   "dependencies": {
     "aos": "^2.3.4",
     "foundation-sites": "^6.5.3",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "open-iconic": "^1.1.1",
     "what-input": "^5.2.3"
   },
